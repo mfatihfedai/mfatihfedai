@@ -4,6 +4,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=mfatihfedai&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+[![](https://visitcount.itsvg.in/api?id=mfatihfedai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 [![wakatime](https://wakatime.com/badge/user/afc97682-aef8-40d5-a431-64dd371252a5.svg)](https://wakatime.com/@afc97682-aef8-40d5-a431-64dd371252a5)
 
